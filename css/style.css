@@ -1,4 +1,4 @@
-/* Created by: Mr. Coxall
+/* Created by: Manya
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-  background-color: rgb(255 165 0);
-  color: hsl(147deg 50% 47%);
+  background-color: rgb(197, 221, 187);
+  color: hsl(4, 57%, 66%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #f0f;
+  background-color: rgb(103, 203, 196);
 }
